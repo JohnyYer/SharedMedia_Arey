@@ -1,6 +1,6 @@
 ## Interface: 100105
 ## Title: SharedMedia_Arey
-## Notes: Adds additional media to LibSharedMedia
+## Notes: Adds additional media from Arey guild to LibSharedMedia
 ## Author: Saifer
 ## Version: 1.0.0
 
