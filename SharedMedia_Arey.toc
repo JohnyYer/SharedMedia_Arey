@@ -1,10 +1,6 @@
-## Interface: 100105
+## Interface: 110007
 ## Title: SharedMedia_Arey
-## Notes: Adds additional media from Arey guild to LibSharedMedia
-## Author: Saifer
-## Version: 1.0.0
 
-# Files
 libs\LibStub\LibStub.lua
 libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
 embeds.xml
